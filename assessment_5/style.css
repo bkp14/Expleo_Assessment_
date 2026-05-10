@@ -1,0 +1,79 @@
+.form{
+     width: 100%;
+     max-width: 500px;
+     margin: 0 auto;
+     padding: 20px;
+     box-sizing: border-box;
+}
+#bstyling{
+    background-color: #f0f4f8;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+#headstyle{
+   color: #1F3864;
+   font-size: 2rem;
+   border-bottom: 3px solid #1F3864;
+    width: 100%;
+     max-width: 500px;
+     margin: 0 auto;
+     padding: 25px;
+     box-sizing: border-box;
+}
+#formy{
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 24px;
+    background: #ffffff;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+input,
+select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 12px;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#formy .option-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: center;
+    margin-bottom: 12px;
+}
+
+#formy .option-group label {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin: 0;
+    white-space: nowrap;
+}
+
+#formy .option-group input {
+    width: auto;
+    margin: 0;
+}
+
+@media (max-width: 600px) {
+    body {
+        padding: 12px;
+    }
+
+    .form {
+        max-width: 100%;
+    }
+}
+#submit {
+    background-color: #1F3864;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
