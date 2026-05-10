@@ -1,0 +1,159 @@
+[2026-05-06 18:51:28] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 18:51:47] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 18:52:01] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 18:52:12] WARN  com.test.LoginTest - Invalid login
+[2026-05-06 18:52:12] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 18:52:43] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 18:52:51] WARN  com.test.LoginTest - Already Registered
+[2026-05-06 18:52:51] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 18:53:02] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 18:53:14] INFO  com.test.LoginTest - Login Successful
+[2026-05-06 18:53:14] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 18:54:21] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 18:54:24] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 18:54:27] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 18:54:30] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 18:54:33] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 18:56:15] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 18:57:10] INFO  com.test.LoginTest - Successfully Registerd
+[2026-05-06 19:00:06] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 19:00:31] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 19:01:22] WARN  com.test.LoginTest - Invalid login
+[2026-05-06 19:01:22] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 19:01:39] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 19:01:47] WARN  com.test.LoginTest - Already Registered
+[2026-05-06 19:01:47] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 19:02:16] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 19:02:54] INFO  com.test.LoginTest - Login Successful
+[2026-05-06 19:02:54] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 20:41:59] ERROR listeners.TestListener - FAIL: testSignUp
+[2026-05-06 20:42:18] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 20:42:18] INFO  listeners.TestListener - START: verifyExistingEmailError
+[2026-05-06 20:42:18] WARN  listeners.TestListener - SKIPPED: verifyExistingEmailError
+[2026-05-06 20:42:22] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 20:42:22] INFO  listeners.TestListener - START: testLogin
+[2026-05-06 20:42:22] WARN  listeners.TestListener - SKIPPED: testLogin
+[2026-05-06 20:42:25] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 20:42:25] INFO  listeners.TestListener - START: testLogin
+[2026-05-06 20:42:25] WARN  listeners.TestListener - SKIPPED: testLogin
+[2026-05-06 20:45:32] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 20:45:32] INFO  listeners.TestListener - START: testSignUp
+[2026-05-06 20:45:45] INFO  com.test.LoginTest - Successfully Registered
+[2026-05-06 20:46:06] INFO  listeners.TestListener - PASS: testSignUp
+[2026-05-06 20:46:06] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 20:46:17] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 20:46:17] INFO  listeners.TestListener - START: verifyExistingEmailError
+[2026-05-06 20:46:35] WARN  com.test.LoginTest - Already Registered
+[2026-05-06 20:46:35] INFO  listeners.TestListener - PASS: verifyExistingEmailError
+[2026-05-06 20:46:35] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 20:47:03] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 20:47:03] INFO  listeners.TestListener - START: testLogin
+[2026-05-06 20:47:06] ERROR listeners.TestListener - FAIL: testLogin
+[2026-05-06 20:47:06] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 20:49:00] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 20:49:00] INFO  listeners.TestListener - START: testLogin
+[2026-05-06 20:49:16] WARN  com.test.LoginTest - Invalid login
+[2026-05-06 20:49:16] INFO  listeners.TestListener - PASS: testLogin
+[2026-05-06 20:49:16] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 20:54:19] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 20:54:19] INFO  listeners.TestListener - START: testSignUp
+[2026-05-06 20:54:42] INFO  com.test.LoginTest - Successfully Registered
+[2026-05-06 20:57:42] ERROR listeners.TestListener - FAIL: testSignUp
+[2026-05-06 20:57:42] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 21:01:15] INFO  listeners.TestListener - START: verifyExistingEmailError
+[2026-05-06 21:01:15] WARN  listeners.TestListener - SKIPPED: verifyExistingEmailError
+[2026-05-06 21:04:17] INFO  listeners.TestListener - START: testLogin
+[2026-05-06 21:04:17] WARN  listeners.TestListener - SKIPPED: testLogin
+[2026-05-06 21:06:43] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 21:06:44] INFO  listeners.TestListener - START: testLogin
+[2026-05-06 21:08:02] WARN  com.test.LoginTest - Invalid login
+[2026-05-06 21:08:02] INFO  listeners.TestListener - PASS: testLogin
+[2026-05-06 21:08:02] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 21:12:21] INFO  listeners.TestListener - START: testSignUp
+[2026-05-06 21:12:21] WARN  listeners.TestListener - SKIPPED: testSignUp
+[2026-05-06 21:13:57] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 21:13:57] INFO  listeners.TestListener - START: verifyExistingEmailError
+[2026-05-06 21:14:44] ERROR listeners.TestListener - FAIL: verifyExistingEmailError
+[2026-05-06 21:14:44] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 21:15:04] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 21:15:05] INFO  listeners.TestListener - START: testLogin
+[2026-05-06 21:15:05] WARN  listeners.TestListener - SKIPPED: testLogin
+[2026-05-06 21:15:08] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 21:15:08] INFO  listeners.TestListener - START: testLogin
+[2026-05-06 21:15:08] WARN  listeners.TestListener - SKIPPED: testLogin
+[2026-05-06 21:15:54] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 21:15:54] INFO  listeners.TestListener - START: testSignUp
+[2026-05-06 21:16:03] INFO  com.test.LoginTest - Successfully Registered
+[2026-05-06 21:18:18] INFO  listeners.TestListener - PASS: testSignUp
+[2026-05-06 21:18:18] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 21:18:29] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 21:18:29] INFO  listeners.TestListener - START: verifyExistingEmailError
+[2026-05-06 21:18:45] WARN  com.test.LoginTest - Already Registered
+[2026-05-06 21:18:45] INFO  listeners.TestListener - PASS: verifyExistingEmailError
+[2026-05-06 21:18:45] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 21:20:37] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 21:20:37] INFO  listeners.TestListener - START: testLogin
+[2026-05-06 21:22:56] INFO  com.test.LoginTest - Login Successful
+[2026-05-06 21:22:56] INFO  listeners.TestListener - PASS: testLogin
+[2026-05-06 21:22:56] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 21:23:25] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 21:23:25] INFO  listeners.TestListener - START: testLogin
+[2026-05-06 21:23:30] WARN  com.test.LoginTest - Invalid login
+[2026-05-06 21:23:30] INFO  listeners.TestListener - PASS: testLogin
+[2026-05-06 21:23:30] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 21:42:17] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 21:42:18] INFO  listeners.TestListener - START: testSignUp
+[2026-05-06 21:42:34] INFO  com.test.LoginTest - Successfully Registered
+[2026-05-06 21:42:34] ERROR listeners.TestListener - FAIL: testSignUp
+[2026-05-06 21:42:34] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 21:43:04] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 21:43:04] INFO  listeners.TestListener - START: verifyExistingEmailError
+[2026-05-06 21:43:11] WARN  com.test.LoginTest - Already Registered
+[2026-05-06 21:43:11] INFO  listeners.TestListener - PASS: verifyExistingEmailError
+[2026-05-06 21:43:11] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 21:46:13] INFO  listeners.TestListener - START: testLogin
+[2026-05-06 21:46:13] WARN  listeners.TestListener - SKIPPED: testLogin
+[2026-05-06 21:46:46] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 21:46:46] INFO  listeners.TestListener - START: testLogin
+[2026-05-06 21:47:13] WARN  com.test.LoginTest - Invalid login
+[2026-05-06 21:47:13] INFO  listeners.TestListener - PASS: testLogin
+[2026-05-06 21:47:13] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 22:01:34] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 22:01:34] INFO  listeners.TestListener - START: testSignUp
+[2026-05-06 22:02:03] INFO  com.test.LoginTest - Successfully Registered
+[2026-05-06 22:03:47] INFO  listeners.TestListener - PASS: testSignUp
+[2026-05-06 22:03:47] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 22:04:15] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 22:04:15] INFO  listeners.TestListener - START: verifyExistingEmailError
+[2026-05-06 22:04:26] WARN  com.test.LoginTest - Already Registered
+[2026-05-06 22:04:26] INFO  listeners.TestListener - PASS: verifyExistingEmailError
+[2026-05-06 22:04:26] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 22:04:47] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 22:04:47] INFO  listeners.TestListener - START: testLogin
+[2026-05-06 22:07:53] ERROR listeners.TestListener - FAIL: testLogin
+[2026-05-06 22:07:53] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 22:10:23] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 22:10:23] INFO  listeners.TestListener - START: testLogin
+[2026-05-06 22:10:29] WARN  com.test.LoginTest - Invalid login
+[2026-05-06 22:10:29] INFO  listeners.TestListener - PASS: testLogin
+[2026-05-06 22:10:29] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 22:25:51] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 22:25:52] INFO  listeners.TestListener - START: testSignUp
+[2026-05-06 22:26:05] INFO  com.test.LoginTest - Successfully Registered
+[2026-05-06 22:28:48] INFO  listeners.TestListener - PASS: testSignUp
+[2026-05-06 22:28:48] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 22:30:26] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 22:30:26] INFO  listeners.TestListener - START: verifyExistingEmailError
+[2026-05-06 22:30:35] WARN  com.test.LoginTest - Already Registered
+[2026-05-06 22:30:35] INFO  listeners.TestListener - PASS: verifyExistingEmailError
+[2026-05-06 22:30:35] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 22:30:51] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 22:30:51] INFO  listeners.TestListener - START: testLogin
+[2026-05-06 22:31:24] INFO  com.test.LoginTest - Login Successful
+[2026-05-06 22:31:24] INFO  listeners.TestListener - PASS: testLogin
+[2026-05-06 22:31:24] INFO  com.test.LoginTest - Browser was close
+[2026-05-06 22:31:52] INFO  com.test.LoginTest - Browser was open
+[2026-05-06 22:31:52] INFO  listeners.TestListener - START: testLogin
+[2026-05-06 22:31:57] WARN  com.test.LoginTest - Invalid login
+[2026-05-06 22:31:57] INFO  listeners.TestListener - PASS: testLogin
+[2026-05-06 22:31:57] INFO  com.test.LoginTest - Browser was close
