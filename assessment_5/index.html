@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Registration</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="validate.js"></script>
+</head>
+<body id="bstyling">
+    <h1 id="headstyle">Student Registration form</h1>
+    <p>Please fill out this form with appropriate information</p>
+    <div class="form">
+<form id="formy">
+     <label for="name" >Fullname</label><br>
+     <input type="text" id="name" name="name" placeholder="e.g. krishna"><br><br>
+
+     <label for="email" >Email</label><br>
+     <input type="email" id="email" name="email" placeholder="e.g. krishna123@gmail.com"><br><br>
+
+     <label for="dob" >DateOfBirth</label><br>
+     <input type="date" id="dob" name="date" placeholder="e.g. 01/01/2000"><br><br>
+
+     <label>Gender</label><br>
+     <div class="option-group">
+         <label><input type="radio" name="gender" value="male"> Male</label>
+         <label><input type="radio" name="gender" value="female"> Female</label>
+         <label><input type="radio" name="gender" value="other"> Other</label>
+     </div><br><br>
+
+     <label>Language</label><br>
+     <div class="option-group">
+         <label><input type="checkbox" name="language" value="english"> English</label>
+         <label><input type="checkbox" name="language" value="tamil"> Tamil</label>
+         <label><input type="checkbox" name="language" value="malayalam"> Malayalam</label>
+     </div>
+<br><br>
+        <label for="course">Course</label><br>
+        <select id="course" name="course">
+            <option value="">Select course</option>
+            <option value="B.E">B.E</option>
+            <option value="M.E">M.E</option>
+            <option value="MBA">MBA</option>
+            <option value="MCA">MCA</option>
+        </select>
+<br><br>
+<input type="submit" id="submit" name="submit" value="Submit"><br><br>
+
+</form>
+</div>
+<ul>
+    <li>Air Conditioned Lab Facilities </li>
+    <li>Elevator Facilities </li>
+    <li>Library Facilities </li>
+</ul>
+
+<footer>
+    <p>KRISHNAPRASATH</p>
+    <p>4th-year</p>
+</footer>
+</body>
+</html>
+
+
